@@ -1,0 +1,26 @@
+ body { 
+    background-color: white;
+    font-family: Times;
+/*    font-size: 15px;*/
+}
+.category{ /* specifies the styling for all elements with the "category" class*/
+        color: darkcyan;   
+}
+
+.artpic{
+    float:right;
+    padding-right:25%;
+    position:relative; 
+}
+.artwork{
+    position:relative; 
+    left:10%; 
+    width:90%; 
+}
+.evelink{
+    color: red;
+    
+}
+.outsidelink{
+    color:lightgreen;
+}
