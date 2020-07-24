@@ -5,21 +5,32 @@
 /*    font-size: 15px;*/
 }
 .category{ /* specifies the styling for all elements with the "category" class*/
-    color: darkcyan;   
+    color: mediumpurple;   
 }
 
-.artpic{
+.landscapepic{
     float:right;
     padding-right:25%;
     position:relative; 
+    height:400px;
 }
+
+.portraitpic{
+    float:right;
+    padding-right:35%;
+    position:relative; 
+    height:400px;
+}
+
 .artwork{
     position:relative; 
     left:10%; 
     width:90%; 
+    height:450px;
 }
+
 .evelink{
-    color: red;
+    color: hotpink;
     
 }
 .outsidelink{
