@@ -19,15 +19,15 @@
 }
 
 .portraitpic{
+    float:right;
+    padding-right:30%;
     position:relative; 
-    left:20%; 
-    width:90%; 
 }
 
-  .landscapepic{
+.landscapepic{
+    float:right;
+    padding-right:25%;
     position:relative; 
-    left:20%; 
-    width:90%; 
 }
 .evelink{
     color: red;
