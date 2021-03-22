@@ -17,6 +17,18 @@
     left:10%; 
     width:90%; 
 }
+
+.portraitpic{
+    position:relative; 
+    left:30%; 
+    width:90%; 
+}
+
+  .landscapepic{
+    position:relative; 
+    left:10%; 
+    width:90%; 
+}
 .evelink{
     color: red;
 }
