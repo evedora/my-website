@@ -48,7 +48,7 @@ const paintings = [
         material: 'Oil on Canvas',
         dimensions: '16 x 20',
         year: 2020, 
-        filePath: 'PowerStreet.jpg'
+        filePath: 'Powerstreet.jpg'
     },
     
     {
