@@ -89,7 +89,7 @@ paintings.forEach((painting) => {
 
     const thumbnailDiv = document.createElement('div')
     thumbnailDiv.classList.add('thumbnail-container')
-    thumbnailDiv.style.width = '300px'
+    //thumbnailDiv.style.width = '300px'
     const image = document.createElement('img')
     image.classList.add('thumbnail')
     image.src = `painting/${painting.filePath}`
@@ -97,7 +97,8 @@ paintings.forEach((painting) => {
     
     const text = document.createElement('div')
     text.classList.add('caption-text')
-    text.textContent = `${painting.name}, ${painting.year}, ${painting.material}, ${painting.dimensions} "`
+    //text.innerHTML = `<p>${painting.name}</p> <p> ${painting.year}</p> <p> ${painting.material}</p> <p>${painting.dimensions} "</p>`
+    text.innerHTML = `${painting.name} <br/>  ${painting.year} <br/> ${painting.material} <br/> ${painting.dimensions}"`
     text.hidden = true
 
     thumbnailDiv.addEventListener('mouseenter', () => {
