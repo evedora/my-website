@@ -2,7 +2,7 @@
 
 const paintings = [ 
     {
-        name: 'Unknown',
+        name: 'City Park',
         material: 'Oil on Canvas',
         dimensions: '16 x 20',
         year: 2020,
@@ -97,7 +97,7 @@ paintings.forEach((painting) => {
     
     const text = document.createElement('div')
     text.classList.add('caption-text')
-    text.textContent = `${painting.name}. ${painting.year}. ${painting.material}. ${painting.dimensions} inches`
+    text.textContent = `${painting.name}, ${painting.year}, ${painting.material}, ${painting.dimensions} "`
     text.hidden = true
 
     thumbnailDiv.addEventListener('mouseenter', () => {
