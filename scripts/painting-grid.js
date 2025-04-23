@@ -1,6 +1,13 @@
 
 
 const paintings = [ 
+{
+        name: 'Bayou St. John',
+        material: 'Oil on Canvas',
+        dimensions: '36.5x48.5”',
+        year: 2023,
+        filePath: '231022-Eve-OShea-painting-documentation--IMG_8993--Sm.jpg'
+    },
     {
         name: 'City Park',
         material: 'Oil on Canvas',
