@@ -77,7 +77,6 @@ const paintings = [
         year: 2020, 
         filePath: 'Power St_NEWEST.jpg'
     },
-    
     {
         name: 'Swimmer',
         material: 'Oil on Canvas',
