@@ -82,7 +82,7 @@ const paintings = [
         name: 'Swimmer',
         material: 'Oil on Canvas',
         dimensions: '6 x 12',
-        year:2019,
+        year: 2019,
         filePath:  'Swimmer-NEWEST.jpg',
     },
     {
