@@ -4,6 +4,7 @@ const paintings = [
     {
         name: 'Squarepants',
         material: 'Oil on Canvas',
+        dimensions:
         year: 2024,
         filePath: 'Squarepants-NEWEST.jpg'
     },        
