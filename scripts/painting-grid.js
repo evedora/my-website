@@ -40,14 +40,14 @@ const paintings = [
         material: 'Oil on Canvas',
         dimensions: '24 x 24',
         year: 2021,
-        filePath: 'Claire+Miles.jpg'
+        filePath: 'ClaireMilesPoker_NEWEST.jpg'
     },
     {
         name: 'Castelnou',
         material: 'Oil on Canvas',
         dimensions: '72 x 48',
         year: 2020,
-        filePath: 'EveOShea_2.jpeg'
+        filePath: 'Castelnou-NEWEST.jpg'
     },
     {
         name: 'Flowered Scene',
@@ -75,7 +75,7 @@ const paintings = [
         material: 'Oil on Canvas',
         dimensions: '16 x 20',
         year: 2020, 
-        filePath: 'Powerstreet.jpg'
+        filePath: 'Power St_NEWEST.jpg'
     },
     
     {
@@ -83,7 +83,7 @@ const paintings = [
         material: 'Oil on Canvas',
         dimensions: '6 x 12',
         year:2019,
-        filePath:  'swimmer.jpg',
+        filePath:  'Swimmer-NEWEST.jpg',
     },
     {
         name: 'Rockaway',
@@ -97,14 +97,14 @@ const paintings = [
         material: 'Oil on Canvas',
         dimensions: '36 x 24',
         year: 2020,
-        filePath: 'Theaquarium.jpg',
+        filePath: 'the-aquarium-NEWEST.jpg',
     },
     {
         name: 'Winter Walk',
         material: 'Oil on Canvas',
         dimensions: '60 x 60',
         year: 2020, 
-        filePath:  'winterwalk.jpg',
+        filePath:  'Winter-Walk-NEWEST.jpg',
     },
  ]
 
