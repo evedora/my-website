@@ -2,6 +2,13 @@
 
 const paintings = [ 
 {
+        name: 'St. Luke in the Fields',
+        material: 'Oil on Canvas',
+        dimensions: '24 x 30”',
+        year: 2024,
+        filePath: 'Eve-OShea-StLukeInTheFields.jpg'
+    },    
+{
         name: 'East Street',
         material: 'Oil on Canvas',
         dimensions: '46 x 36”',
