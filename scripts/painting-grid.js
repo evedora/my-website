@@ -2,9 +2,16 @@
 
 const paintings = [ 
 {
+        name: 'East Street',
+        material: 'Oil on Canvas',
+        dimensions: '46 x 36”',
+        year: 2024,
+        filePath: 'Eve-OShea-EastSt.jpg'
+    },
+{
         name: 'Bayou St. John',
         material: 'Oil on Canvas',
-        dimensions: '36.5x48.5”',
+        dimensions: '36.5 x 48.5”',
         year: 2023,
         filePath: '231022-Eve-OShea-painting-documentation--IMG_8993--Sm.jpg'
     },
