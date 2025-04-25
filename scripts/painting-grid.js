@@ -2,6 +2,12 @@
 
 const paintings = [ 
 {
+        name: 'Squarepants',
+        material: 'Oil on Canvas',
+        year: 2024,
+        filePath: 'Squarepants-NEWEST.jpg'
+    },        
+{
         name: 'St. Luke in the Fields',
         material: 'Oil on Canvas',
         dimensions: '24 x 30”',
