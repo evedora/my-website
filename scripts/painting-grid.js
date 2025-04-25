@@ -1,27 +1,27 @@
 
 
 const paintings = [ 
-{
+    {
         name: 'Squarepants',
         material: 'Oil on Canvas',
         year: 2024,
         filePath: 'Squarepants-NEWEST.jpg'
     },        
-{
+    {
         name: 'St. Luke in the Fields',
         material: 'Oil on Canvas',
         dimensions: '24 x 30”,
         year: 2024,
         filePath: 'Eve-OShea-StLukeInTheFields.jpg'
     },    
-{
+    {
         name: 'East Street',
         material: 'Oil on Canvas',
         dimensions: '46 x 36”,
         year: 2024,
         filePath: 'Eve-OShea-EastSt.jpg'
     },
-{
+    {
         name: 'Bayou St. John',
         material: 'Oil on Canvas',
         dimensions: '36.5 x 48.5”,
